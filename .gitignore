@@ -1,2 +1,19 @@
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Latex
+*.tex
+*.sty
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.gz
+*.toc
+*.vrb
+
+# Media
+*.png
+*.jpeg
+*.mp4
