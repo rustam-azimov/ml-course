@@ -4,7 +4,7 @@
 Курс по машинному обучению.
 
 Полезные ссылки:
-- [Таблица с текущими результатами](https://docs.google.com/spreadsheets/d/14q5OtKNJnQJWK5wRIE0v9ribFC_hslmBIBs9dcGat54/edit?usp=sharing)
+- [Таблица с текущими результатами](https://docs.google.com/spreadsheets/d/1sxmeJT091JlLFIUdju8jdfMdHwCSgZFwemR48W8yTlA/edit?usp=sharing)
 - [Список задач](https://github.com/rustam-azimov/ml-course/tree/main/tasks)
 - [Лекционные материалы](https://github.com/rustam-azimov/ml-course/tree/main/lectures)
 - [Практические материалы](https://github.com/rustam-azimov/ml-course/tree/main/practice)
