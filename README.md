@@ -35,7 +35,10 @@
 ├── practice - материалы с практик
 ├── tasks - файлы с описанием домашних заданий
 └── README.md - основная информация о репозитории
+
 ```
+## Домашние работы
+- Первое задание https://colab.research.google.com/drive/14437UCjdn_QLPuKR23puZW5eNqsQJJLv?hl=ru%20here#scrollTo=VwAPIMTcGoyV
 
 ## Контакты
 
