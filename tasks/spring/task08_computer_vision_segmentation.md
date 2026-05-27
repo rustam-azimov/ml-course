@@ -7,7 +7,7 @@
 ## Задача
 
 Обучаем Сегментацию:
-- https://colab.research.google.com/drive/1eUIOnLFB_9_6CJ3dVZxY9TV_gCqDAmaV?authuser=1#scrollTo=SjKfL5X_RbzH --- тут мы обучали на большом датасете одну эпоху.
+- [На практике](https://github.com/rustam-azimov/ml-course/blob/main/practice/practice15_CV_segmentation/cv_toy_examples_segmentation.ipynb) --- мы обучали на большом датасете одну эпоху.
 - https://drive.google.com/file/d/11wp4Bm-hEVwmZq8GmqbLpKpJiqvDSNAe/view?usp=sharing --- тут лежит датасет который мы будем использовать.
 
 Мы хотим обучить наш unet на небольшом датасете. Нужно заполнить репорт и сделать выводы.
